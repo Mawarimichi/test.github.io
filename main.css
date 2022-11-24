@@ -4,11 +4,14 @@ body{
     font-size: 100%;    
 }
 
-h1{
-    font-size: 2rem;
-    font-family: 'Noto Sans JP', sans-serif;
+.container{
+    display: flex;
+    flex-wrap: wrap;
 }
 
-h2{
-    font-size: 20px;
+.item{
+    background-color: aqua;
+    color: white;
+    margin: 10px;
+    padding: 10px;
 }
