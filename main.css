@@ -1,13 +1,13 @@
 @charset "UTF-8";
 
 body{
-    background-color:bisque;
+font-size: 100%;    
 }
 
 h1{
-    color: brown;
+font-size: 2rem;
 }
 
-p{
+h2{
     font-size: 20px;
 }
